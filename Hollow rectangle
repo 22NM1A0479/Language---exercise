@@ -1,0 +1,7 @@
+l=int(input("Enter the length:") 
+b=int(input("Enter the breadth:") 
+print("*"*b) 
+for i in range(1, l-1):
+  print("*"+" "*((b*2)-3))+"*") 
+print("*"*b) 
+  
